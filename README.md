@@ -1,9 +1,9 @@
 # rsMarg
 Bringing Stata into R
 
-This package does some stupid, bullshit, hacky things to integrate Stata and R, so you can calculate the marginal effects of your models. 
+This package does some stupid, hacky things to integrate Stata and R, so you can calculate the marginal effects of your models. 
 
-The intelligent thing to do would be to actually port over the econometrics, but the fast, stupid, bullshit hacky thing to do is to use R to write Stata code and then read the output back into R.
+The intelligent thing to do would be to actually port over the econometrics, but the fast, stupid, hacky thing to do is to use R to write Stata code and then read the output back into R.
 
 # Installation
 ```
